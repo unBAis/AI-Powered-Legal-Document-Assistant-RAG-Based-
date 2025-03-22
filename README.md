@@ -20,6 +20,7 @@ Scalability: API-based architecture for integration with legal firms and busines
 
 Tech Stack
 LLM: GPT-4-turbo, Mistral-7B, Llama 3
+
 Vector Database: FAISS, Pinecone, ChromaDB
 Backend: FastAPI, Flask
 Frontend: Streamlit, Gradio
