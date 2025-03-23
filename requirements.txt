@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+requests
+faiss-cpu
+chromadb
+sentence-transformers
+rank-bm25
+openai
+numpy
+pydantic
