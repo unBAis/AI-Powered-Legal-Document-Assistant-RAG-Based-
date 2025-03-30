@@ -9,3 +9,10 @@ rank-bm25
 openai
 numpy
 pydantic
+requests
+pymupdf 
+requests
+openpyxl
+beautifulsoup4 
+pandas
+selenium
