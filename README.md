@@ -7,7 +7,7 @@ Overview
 
 This project is a Retrieval-Augmented Generation (RAG)-based Legal Document Assistant that helps users:
 Retrieve relevant case laws and legal clauses
-
+ 
 Summarize lengthy legal documents
 
 Answer legal queries with fact-based responses
