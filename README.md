@@ -9,7 +9,7 @@ This project is a Retrieval-Augmented Generation (RAG)-based Legal Document Assi
 Retrieve relevant case laws and legal clauses
  
 Summarize lengthy legal documents
-
+ 
 Answer legal queries with fact-based responses
 
 Identify risks and suggest clauses for contracts
