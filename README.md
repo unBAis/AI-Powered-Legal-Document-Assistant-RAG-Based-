@@ -10,7 +10,7 @@ Retrieve relevant case laws and legal clauses
  
 Summarize lengthy legal documents
  
-Answer legal queries with fact-based responses
+Answer legal queries with fact-based responses 
 
 Identify risks and suggest clauses for contracts
 
